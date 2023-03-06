@@ -6,7 +6,7 @@
 
 ## Tópicos
 
-(Análise de Fourier)[https://www.linkedin.com/in/giovanni-wesley-da-costa-779411165/]
+[Análise de Fourier](https://www.linkedin.com/in/giovanni-wesley-da-costa-779411165/)
     - Métodos Numéricos
     - Sistemas Dinámicos
 
